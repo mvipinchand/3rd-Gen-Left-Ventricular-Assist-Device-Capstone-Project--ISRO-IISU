@@ -1,6 +1,6 @@
 Developed a surgically implantable mechatronic pump designed in three phases for patients suffering from end stage heart failure:- Levitation phase: Implemented a Magnetic & Hydrodynamic levitation of an impeller without any contact bearings delivering speed at 1800-4000 rpm with 10 ltr/min maximum flow rate. Drive Electronics phase: Designed a PCB to interface DRV10983-Q1 motor driver IC and MSP430G2553 MCU for control based sinusoidal drive currents providing Torque (BEMF constant) > 30 mN with an accuracy of 2 rpm. Monitoring phase: OLED interfaced with MSP-EXP430G2 TI Launchpad to monitor device health parameters such as battery percentage indication, speed, power etc.
 
-BlocK Diagram:
+BlocK Diagram:<br />
 ![image](https://github.com/mvipinchand/3rd-Gen-Left-Ventricular-Assist-Device-Capstone-Project---ISRO-IISU-/assets/73341926/52d09ab1-8cd7-4faf-bf79-af50dab00e71)
 
 Levitation Phase:
