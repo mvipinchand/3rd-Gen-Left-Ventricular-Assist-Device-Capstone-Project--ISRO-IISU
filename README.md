@@ -3,9 +3,9 @@ Developed a surgically implantable mechatronic pump designed in three phases for
 BlocK Diagram:<br />
 ![image](https://github.com/mvipinchand/3rd-Gen-Left-Ventricular-Assist-Device-Capstone-Project---ISRO-IISU-/assets/73341926/52d09ab1-8cd7-4faf-bf79-af50dab00e71)
 
-Levitation Phase:
-Levitation systems utilized in third-generation rotary blood pumps suspend the moving impeller within the blood field without any mechanical contact. The magnetic and hydrodynamic levitation of the impeller without any contact bearings with the pump is the major advancement of the third-generation pumps. 
-![image](https://github.com/mvipinchand/3rd-Gen-Left-Ventricular-Assist-Device-Capstone-Project---ISRO-IISU-/assets/73341926/2df7bd86-dff4-47d6-bf6f-1dd3d746057e)	
+Levitation Phase:<br />
+Levitation systems utilized in third-generation rotary blood pumps suspend the moving impeller within the blood field without any mechanical contact. The magnetic and hydrodynamic levitation of the impeller without any contact bearings with the pump is the major advancement of the third-generation pumps.<br /> 
+![image](https://github.com/mvipinchand/3rd-Gen-Left-Ventricular-Assist-Device-Capstone-Project---ISRO-IISU-/assets/73341926/2df7bd86-dff4-47d6-bf6f-1dd3d746057e)<br />	
 The suspended impeller reduces heat generation, increases endurance and also the spiral groove hydrodynamic bearing are a backup in case primary magnetic bearing fails (in larger size LVAD pumps). The rotation speed is 1800-4000 rpm with 10 l/min maximum flow rate. Magnetic bearings over high reliability, show no wear or abrasion and can be used in a high-vacuum environment without the need for lubrication. They show no stiction and have very low rotational losses. They are not susceptible to temperature changes and should be less expensive to produce than conventional ball-bearings due to less demanding manufacturing tolerances. These properties are appreciated for satellite reaction/momentum wheels, which have to operate at high rotational speeds in a vacuum for long periods of time. This section describes the design suspension electronics for magnetic bearing used in Magnetic Suspension Reaction Wheels (MSRW).
 
 
